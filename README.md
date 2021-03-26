@@ -6,3 +6,6 @@
   * Finally, I added some simple animation **Glowing Flying Dust** to make the interface more attractive.
 
 This repository is the client side of the Game, you can access the server repository by clicking [here](https://gitlab.com/Nitro963/checkers-server).
+
+## Preview Image
+![Test Image 1](https://github.com/OsamaAlhalabi/Checkers/blob/main/img/Screen%20Shot%202021-03-26%20at%203.32.04%20PM.png)
